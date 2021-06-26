@@ -3,7 +3,8 @@ Tools I create in Python for use with Ethical Hacking or Pen-Testing
 
 
 Project_01: Mac Address Changer
-  *two tools currently here - one is for user input other will randomise a MAC for you
+  * Two tools currently here - one requires user input, the other will randomise a MAC for you
+  * Will combine into one tool in future.
 
   
    
