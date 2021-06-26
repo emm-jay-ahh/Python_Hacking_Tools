@@ -2,7 +2,7 @@
 
 <br />
 
-Tools I create with Python for use with Ethical Hacking or Pen-Testing
+Tools I create with Python for use with Ethical Hacking & Pen-Testing
 
 Wanting to create my own toolkit/framework like metasploi
 
