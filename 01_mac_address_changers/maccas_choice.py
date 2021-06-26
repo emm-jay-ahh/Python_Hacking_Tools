@@ -8,7 +8,7 @@ mac_choice = input('Enter a new MAC address... format "AA:BB:CC:11:22:33"\n\t>>>
 print(f"\n---  Changing Mac Address for {interface_name}  ---\n")
 print("  -- OLD --\n")
 
-# run ifconfig interface_name
+# run bash commands ifconfig interface_name - view ifconfig before MAC changes
 subprocess.call(["ifconfig", interface_name])
 
 # int_name down - hw ether {MAC_RANDOM} - int_name up
