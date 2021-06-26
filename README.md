@@ -13,7 +13,7 @@ Wanting to create my own toolkit/framework like metasploi
     * maccas_choice.py - User is required to enter the MAC address they wish to use
     * maccas_random.py - Tool will generate a random MAC address for you
   
-  * Will combine into one tool in future for now keep serperated to work updates
+  * Will combine into one tool in the future - for now conitnue debug and updates seperate
 
   
    
