@@ -1,10 +1,10 @@
-# Python Hacking
+# Python Hacking Tools
 
 <br />
 
-##### Tools I create with Python for use with Ethical Hacking & Pen-Testing
+**Tools I learn to build with Python for use with Ethical Hacking & Pen-Testing**
 
-##### Wanting to create my own toolkit/framework similar to metasploit
+**Wanting to create my own toolkit/framework similar to metasploit**
 
 <br />
 
