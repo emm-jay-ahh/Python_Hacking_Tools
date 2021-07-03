@@ -2,6 +2,7 @@
 
 <br />
 
+
 **I keep reading around the interwebs 'to learn python as fast as possible you must build projects'**
 
 **Sounds pretty wise, so I am going to build python apps around the things I am keen on learning. HACKING!**
@@ -24,16 +25,23 @@
 
 ### WARNING: Do not run unless you understand what the tools are doing 
 
+
 <br />
+
+<br />
+
 
 ## Project_01: MAC Address Changer - maccas
 
-#### maccas - Edit you MAC Address:
+#### maccas - alter you MAC Address fast:
 
-    1. Main
-        - maccas.py - Manual MAC entry + parse arguments directly from the CLI  - FINAL STAGES / BUG TESTING
+<br />
+
+
+  1. Main
+      - maccas.py - Manual MAC entry + parse arguments directly from the CLI  - FINAL STAGES / BUG TESTING
   
-    2. Testing areas
-        - maccas_choice.py - User is required to enter the MAC address manually - FOR TESTING ONLY
-        - maccas_random.py - Tool will randomly choose MAC address for you. - FOR TESTING ONLY
+  2. Testing areas
+      - maccas_choice.py - User is required to enter the MAC address manually - FOR TESTING ONLY
+      - maccas_random.py - Tool will randomly choose MAC address for you. - FOR TESTING ONLY
  
