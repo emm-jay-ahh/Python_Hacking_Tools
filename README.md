@@ -2,15 +2,38 @@
 
 <br />
 
-**Tools I learn to build with Python for use with Ethical Hacking & Pen-Testing**
+**I keep reading around the interwebs 'to learn python as fast as possible you must build projects'**
 
-**Wanting to create my own toolkit/framework similar to metasploit**
+**Sounds pretty wise, so I am going to build python apps around the things I am keen on learning. HACKING!**
+
+**I am utilising Online Videos, Tutorials including CCC_Bootcamp to help me learn and build**
+
+**A journey of creating my own toolkit/framework something like the Metasploit Framework - (not as good)**
+
+**Start with the tools I want in my arsenal and use Python to build them out**
+
+**Then add a terminal menu system to access all these tools from one easy location**
+
 
 <br />
 
-### Project_01: MAC Address Changer
 
-* Two tools currently
-  * maccas_choice.py - User is required to enter the MAC address manually
-  * maccas_random.py - Tool will randomly choose MAC address for you.
-* Wil make them into one tool after further bug testing.
+## I am using Kali Linux 2021.2 as my Development Environment for building these tools
+
+## Most tools will require elevated privileges "sudo" to operate
+
+## WARNING: Do not run unless you understand what the tools are doing 
+
+<br />
+
+### Project_01: MAC Address Changer - maccas
+
+* maccas - Edit you MAC Address:
+
+    1. Main
+        - maccas.py - Manual MAC entry + parse arguments directly from the CLI  - FINAL STAGES / BUG TESTING
+  
+    2. Testing areas
+        - maccas_choice.py - User is required to enter the MAC address manually - FOR TESTING ONLY
+        - maccas_random.py - Tool will randomly choose MAC address for you. - FOR TESTING ONLY
+ 
