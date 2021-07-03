@@ -31,6 +31,6 @@ run_ifconfig()
 
 print("""
 
-IF ANY ERRORS TRY RE-RUNNING maccas_random.py
+IF ANY ERRORS ABOVE TRY RE-RUNNING maccas_random.py
 
 ###----  MACCAS HAS ENDED  ----###""")
