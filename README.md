@@ -18,15 +18,15 @@
 <br />
 
 
-## I am using Kali Linux 2021.2 as my Development Environment for building these tools
+I am using Kali Linux 2021.2 as my Development Environment for building these tools
 
-## Most tools will require elevated privileges "sudo" to operate
+### Most tools will require elevated privileges "sudo" to operate
 
-## WARNING: Do not run unless you understand what the tools are doing 
+### WARNING: Do not run unless you understand what the tools are doing 
 
 <br />
 
-### Project_01: MAC Address Changer - maccas
+#### Project_01: MAC Address Changer - maccas
 
 * maccas - Edit you MAC Address:
 
