@@ -26,9 +26,9 @@
 
 <br />
 
-#### Project_01: MAC Address Changer - maccas
+## Project_01: MAC Address Changer - maccas
 
-* maccas - Edit you MAC Address:
+#### maccas - Edit you MAC Address:
 
     1. Main
         - maccas.py - Manual MAC entry + parse arguments directly from the CLI  - FINAL STAGES / BUG TESTING
